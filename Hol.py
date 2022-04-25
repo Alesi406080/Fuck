@@ -78,15 +78,14 @@ def jalan(z):
         sys.stdout.flush()
         time.sleep(0.01)
 
-logo =                                            
-\x1b[1;90m_____________________________
-|Author   |    SHAHID BASHIR   
-|Whats app|    03081008587   
-|GitHub   |      UNKNOW         
-|Vol      |       7.3.0            
+logo =                                          """   
+\x1b[1;90m_______________________________________
+|Author   |     SHAHID BASHIR      
+|Fb Id    |      03081008587        
+|GitHub   |       UNKNOW              
+|Vol      |          7.1.0             
 |______________________________________
 """
-
 
 
 
